@@ -1,5 +1,7 @@
 ![github-header-image](https://github.com/prakhar00007/prakhar00007/assets/92537028/93af7fa5-2701-44dc-ada6-bfc98911d4cd)
 
+<img align="right" alt="coding" width="400px"  src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
