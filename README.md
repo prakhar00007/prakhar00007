@@ -21,4 +21,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prakhar00007&show_icons=true&locale=en&layout=compact" alt="prakhar00007" /></p>
 
-![snake gif](https://github.com/prakhar00007/prakhar00007/blob/output/github-contribution-grid-snake.gif)
