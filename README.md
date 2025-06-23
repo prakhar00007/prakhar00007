@@ -83,9 +83,7 @@ I'm a **Software Engineer I** at **Aurigo Software Technologies**, passionate ab
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prakhar00007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prakhar00007&layout=compact&theme=tokyonight&hide_border=true)
-  
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=prakhar00007&theme=tokyonight&hide_border=true)
-  
+    
 </div>
 
 ## 🏆 Certifications & Recognition
@@ -139,8 +137,5 @@ I'm a **Software Engineer I** at **Aurigo Software Technologies**, passionate ab
 <div align="center">
   
   **"Building AI systems that create real business value and impact."**
-  
-  ![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
-  ![Open Source](https://img.shields.io/badge/Open%20Source-💚-green?style=for-the-badge)
   
 </div>
